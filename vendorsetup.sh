@@ -14,5 +14,6 @@
 # limitations under the License.
 #
 
-add_lunch_combo illusion_geeb-userdebug
-add_lunch_combo omni_geeb-userdebug
+add_lunch_combo full_geeb-userdebug
+add_lunch_combo illusion_geeb-user
+
